@@ -1,0 +1,43 @@
+.container{
+    background-color: rgb(31, 74, 111);
+    color: white;
+    padding: 25px;
+    font-size: 1.1rem;
+    margin: 27px auto;
+
+    
+}
+
+
+.col-lg-3 img{
+    height: 35px;
+    background-color: rgb(42, 86, 125);
+    margin: 85px 55px;
+}
+
+.col-lg-3 h2{
+    
+    font-family: monospace;
+    color: rgb(4, 175, 81);
+}
+.col-lg-3 ul li{
+    list-style: none;
+    text-decoration: none;
+    /* cursor: pointer; */
+    margin-left: -12px;
+}
+.col-lg-3 ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    line-height: 2;
+    font-family:serif;
+    font-weight: 500;
+}
+.col-lg-3 ul li:hover{
+    color: orange;
+}
+.col-lg-3 ul li a:hover{
+    cursor: pointer;
+    color: rgb(203, 142, 30);
+}
