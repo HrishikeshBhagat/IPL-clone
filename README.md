@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+<img src="./assets/ipl-logo.png" alt="" />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
