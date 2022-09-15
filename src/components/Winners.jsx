@@ -1,10 +1,10 @@
 import React from "react";
 import WinnerContext from "../contexts/WinnerContext";
-import './style.css'
+import "./style.css";
 
 const Winner = () => {
   return (
-    <div>
+    <div className="container-fluid">
       <WinnerContext.Consumer>
         {(winner) => {
           return (
