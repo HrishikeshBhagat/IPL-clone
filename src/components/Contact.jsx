@@ -14,7 +14,7 @@ const Contact = () => {
               <span>
                 <br />
               </span>
-              'D' Road, Churchgate Mumbai - 400020 India
+              'D' Road, Churchgate Mumbai - 40020 India
             </p>
           </span>
         </div>
