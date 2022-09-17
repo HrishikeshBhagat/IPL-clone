@@ -10,12 +10,10 @@ const Contact = () => {
             <h2>Address :</h2>
 
             <p>
-              {" "}
               BCCI-IPL 4th Floor, Cricket Centre. Wankhede Stadium{" "}
               <span>
-                {" "}
-                <br />{" "}
-              </span>{" "}
+                <br />
+              </span>
               'D' Road, Churchgate Mumbai - 400020 India
             </p>
           </span>
