@@ -10,7 +10,7 @@ const Contact = () => {
             <h2>Address :</h2>
 
             <p>
-              BCCI-IPL 4th Floor, Cricket Centre. Wankhede Stadium{" "}
+              BCCI-IPL 4th Floor, Cricket Centre. Wankhede Stadium
               <span>
                 <br />
               </span>
